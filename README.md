@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JudahFree
 - 👀 I’m interested in Coding and making apps
-- 🌱 I’m currently learning C#, Java, Ruby
+- 🌱 I’m currently learning Web Design/Development, Java, React
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me judahjfree@gmail.com
 
