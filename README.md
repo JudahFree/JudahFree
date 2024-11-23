@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JudahFree
-- 👀 I’m interested in Coding and making apps
-- 🌱 I’m currently learning Web Design/Development, Java, React
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me judahjfree@gmail.com
+- 👀 I’m interested in Full-Stack Development and UI/UX Design
+- 🌱 I’m currently learning Web Design/Development, Ruby on Rails, React
+- 💞️ I’m looking to collaborate on Open Source applications!
+- 📫 How to reach me: judahjfree@gmail.com
 
 <!---
 JudahFree/JudahFree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
